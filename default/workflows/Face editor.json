@@ -1,0 +1,1280 @@
+{
+  "last_node_id": 296,
+  "last_link_id": 455,
+  "nodes": [
+    {
+      "id": 242,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 369.6448974609375
+      },
+      "size": [
+        211.50356968843607,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            445
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Head tilt",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 245,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 436.64483642578125
+      },
+      "size": [
+        211.27922899483065,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            448
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Eyebrows",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#323",
+      "bgcolor": "#535",
+      "shape": 1
+    },
+    {
+      "id": 244,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 697.6448974609375
+      },
+      "size": [
+        210.92450019533544,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            447
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Blink",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#323",
+      "bgcolor": "#535",
+      "shape": 1
+    },
+    {
+      "id": 243,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 764.6448974609375
+      },
+      "size": [
+        210.9207005750768,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            446
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Wink",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#323",
+      "bgcolor": "#535",
+      "shape": 1
+    },
+    {
+      "id": 249,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 831.6448974609375
+      },
+      "size": [
+        210.85558859523826,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            369
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Smile",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -100,
+        "max": 100,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#432",
+      "bgcolor": "#653",
+      "shape": 1
+    },
+    {
+      "id": 246,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 898.6448974609375
+      },
+      "size": [
+        210.79737870624922,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            449
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Mouth shape AAA",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -30,
+        "max": 120,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#432",
+      "bgcolor": "#653",
+      "shape": 1
+    },
+    {
+      "id": 248,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 1030.6473388671875
+      },
+      "size": [
+        210.60976252106275,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            451
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Mouth shape WOO",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#432",
+      "bgcolor": "#653",
+      "shape": 1
+    },
+    {
+      "id": 247,
+      "type": "mxSlider",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 964.6448974609375
+      },
+      "size": [
+        210.73462316860196,
+        30
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            450
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Mouth shape EEE",
+      "properties": {
+        "Node name for S&R": "mxSlider",
+        "value": 0,
+        "min": -20,
+        "max": 20,
+        "step": 5,
+        "decimals": 1,
+        "snap": true
+      },
+      "widgets_values": [
+        0,
+        0,
+        1
+      ],
+      "color": "#432",
+      "bgcolor": "#653",
+      "shape": 1
+    },
+    {
+      "id": 241,
+      "type": "DF_Divide",
+      "pos": {
+        "0": 1107.3837890625,
+        "1": 266.64471435546875
+      },
+      "size": {
+        "0": 315,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Numerator",
+          "type": "FLOAT",
+          "link": 368,
+          "widget": {
+            "name": "Numerator"
+          },
+          "label": "Numerator"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            443
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "FLOAT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_Divide"
+      },
+      "widgets_values": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 292,
+      "type": "ExpressionEditor",
+      "pos": {
+        "0": 1409.185302734375,
+        "1": 175.3273468017578
+      },
+      "size": {
+        "0": 308.5041809082031,
+        "1": 729.7953491210938
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "src_image",
+          "type": "IMAGE",
+          "link": 440,
+          "shape": 7
+        },
+        {
+          "name": "motion_link",
+          "type": "EDITOR_LINK",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "sample_image",
+          "type": "IMAGE",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "add_exp",
+          "type": "EXP_DATA",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "rotate_pitch",
+          "type": 0,
+          "link": 443,
+          "widget": {
+            "name": "rotate_pitch"
+          }
+        },
+        {
+          "name": "rotate_yaw",
+          "type": 0,
+          "link": 444,
+          "widget": {
+            "name": "rotate_yaw"
+          }
+        },
+        {
+          "name": "rotate_roll",
+          "type": 0,
+          "link": 445,
+          "widget": {
+            "name": "rotate_roll"
+          }
+        },
+        {
+          "name": "blink",
+          "type": 0,
+          "link": 447,
+          "widget": {
+            "name": "blink"
+          }
+        },
+        {
+          "name": "eyebrow",
+          "type": 0,
+          "link": 448,
+          "widget": {
+            "name": "eyebrow"
+          }
+        },
+        {
+          "name": "wink",
+          "type": 0,
+          "link": 446,
+          "widget": {
+            "name": "wink"
+          }
+        },
+        {
+          "name": "pupil_x",
+          "type": 0,
+          "link": 441,
+          "widget": {
+            "name": "pupil_x"
+          }
+        },
+        {
+          "name": "pupil_y",
+          "type": 0,
+          "link": 442,
+          "widget": {
+            "name": "pupil_y"
+          }
+        },
+        {
+          "name": "aaa",
+          "type": 0,
+          "link": 449,
+          "widget": {
+            "name": "aaa"
+          }
+        },
+        {
+          "name": "eee",
+          "type": 0,
+          "link": 450,
+          "widget": {
+            "name": "eee"
+          }
+        },
+        {
+          "name": "woo",
+          "type": 0,
+          "link": 451,
+          "widget": {
+            "name": "woo"
+          }
+        },
+        {
+          "name": "smile",
+          "type": 0,
+          "link": 452,
+          "widget": {
+            "name": "smile"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": [
+            454
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "motion_link",
+          "type": "EDITOR_LINK",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "save_exp",
+          "type": "EXP_DATA",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ExpressionEditor"
+      },
+      "widgets_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        "All",
+        1.5
+      ],
+      "shape": 1
+    },
+    {
+      "id": 250,
+      "type": "DF_Divide",
+      "pos": {
+        "0": 1410.185302734375,
+        "1": 233.3273468017578
+      },
+      "size": {
+        "0": 315,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Numerator",
+          "type": "FLOAT",
+          "link": 369,
+          "widget": {
+            "name": "Numerator"
+          },
+          "label": "Numerator"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            370
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "FLOAT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_Divide"
+      },
+      "widgets_values": [
+        1,
+        100
+      ],
+      "shape": 1
+    },
+    {
+      "id": 251,
+      "type": "DF_Multiply",
+      "pos": {
+        "0": 1410.185302734375,
+        "1": 285.32733154296875
+      },
+      "size": {
+        "0": 315,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Value_A",
+          "type": "FLOAT",
+          "link": 370,
+          "widget": {
+            "name": "Value_A"
+          },
+          "label": "Value_A"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            452
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "FLOAT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_Multiply"
+      },
+      "widgets_values": [
+        1,
+        1.6
+      ],
+      "shape": 1
+    },
+    {
+      "id": 239,
+      "type": "DF_Multiply",
+      "pos": {
+        "0": 1410.185302734375,
+        "1": 324.32733154296875
+      },
+      "size": {
+        "0": 315,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Value_A",
+          "type": "FLOAT",
+          "link": 366,
+          "widget": {
+            "name": "Value_A"
+          },
+          "label": "Value_A"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            367
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "FLOAT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_Multiply"
+      },
+      "widgets_values": [
+        1,
+        2
+      ],
+      "shape": 1
+    },
+    {
+      "id": 240,
+      "type": "JWFloatSub",
+      "pos": {
+        "0": 1410.185302734375,
+        "1": 374.32733154296875
+      },
+      "size": {
+        "0": 315,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "b",
+          "type": "FLOAT",
+          "link": 367,
+          "widget": {
+            "name": "b"
+          },
+          "label": "b"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            368
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "FLOAT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JWFloatSub"
+      },
+      "widgets_values": [
+        0,
+        0
+      ],
+      "shape": 1
+    },
+    {
+      "id": 294,
+      "type": "ImageSharpen",
+      "pos": {
+        "0": 1410.185302734375,
+        "1": 414.32733154296875
+      },
+      "size": {
+        "0": 315,
+        "1": 106
+      },
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 454
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            455
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageSharpen"
+      },
+      "widgets_values": [
+        1,
+        0.6,
+        0.6
+      ],
+      "shape": 1
+    },
+    {
+      "id": 234,
+      "type": "LoadImage",
+      "pos": {
+        "0": 108.38436889648438,
+        "1": 171.64523315429688
+      },
+      "size": {
+        "0": 432.4718322753906,
+        "1": 527.1310424804688
+      },
+      "flags": {
+        "pinned": true
+      },
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            440
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": "IMAGE"
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "shape": 3,
+          "label": "MASK"
+        }
+      ],
+      "title": "Load",
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "example.png",
+        "image"
+      ],
+      "shape": 1
+    },
+    {
+      "id": 236,
+      "type": "PreviewImage",
+      "pos": {
+        "0": 553.384033203125,
+        "1": 171.64523315429688
+      },
+      "size": {
+        "0": 456.2764892578125,
+        "1": 526.4622192382812
+      },
+      "flags": {
+        "pinned": true
+      },
+      "order": 18,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 455,
+          "label": "images"
+        }
+      ],
+      "outputs": [],
+      "title": "Result",
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": [],
+      "color": "#232",
+      "bgcolor": "#353",
+      "shape": 1
+    },
+    {
+      "id": 238,
+      "type": "mxSlider2D",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 171.64523315429688
+      },
+      "size": [
+        211.40265202580133,
+        161.40265202580133
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            444
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        },
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            366
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Head rotation",
+      "properties": {
+        "valueX": 0,
+        "valueY": 0,
+        "minX": -20,
+        "minY": -20,
+        "maxX": 20,
+        "maxY": 20,
+        "stepX": 1,
+        "stepY": 1,
+        "decimalsX": 1,
+        "decimalsY": 1,
+        "snap": true,
+        "dots": true,
+        "frame": false,
+        "frameAlert": 1048576,
+        "Node name for S&R": "mxSlider2D"
+      },
+      "widgets_values": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 237,
+      "type": "mxSlider2D",
+      "pos": {
+        "0": 1050.3836669921875,
+        "1": 502.645263671875
+      },
+      "size": [
+        211.1323850126464,
+        158.88963562362596
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            441
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "label": ""
+        },
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            442
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "label": ""
+        }
+      ],
+      "title": "Eye position",
+      "properties": {
+        "valueX": 0,
+        "valueY": 0,
+        "minX": -20,
+        "minY": -20,
+        "maxX": 20,
+        "maxY": 20,
+        "stepX": 1,
+        "stepY": 1,
+        "decimalsX": 1,
+        "decimalsY": 1,
+        "snap": true,
+        "dots": true,
+        "frame": false,
+        "frameAlert": 1048576,
+        "Node name for S&R": "mxSlider2D"
+      },
+      "widgets_values": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "color": "#323",
+      "bgcolor": "#535",
+      "shape": 1
+    }
+  ],
+  "links": [
+    [
+      366,
+      238,
+      1,
+      239,
+      0,
+      "FLOAT"
+    ],
+    [
+      367,
+      239,
+      0,
+      240,
+      0,
+      "FLOAT"
+    ],
+    [
+      368,
+      240,
+      0,
+      241,
+      0,
+      "FLOAT"
+    ],
+    [
+      369,
+      249,
+      0,
+      250,
+      0,
+      "FLOAT"
+    ],
+    [
+      370,
+      250,
+      0,
+      251,
+      0,
+      "FLOAT"
+    ],
+    [
+      440,
+      234,
+      0,
+      292,
+      0,
+      "IMAGE"
+    ],
+    [
+      441,
+      237,
+      0,
+      292,
+      10,
+      "FLOAT"
+    ],
+    [
+      442,
+      237,
+      1,
+      292,
+      11,
+      "FLOAT"
+    ],
+    [
+      443,
+      241,
+      0,
+      292,
+      4,
+      "FLOAT"
+    ],
+    [
+      444,
+      238,
+      0,
+      292,
+      5,
+      "FLOAT"
+    ],
+    [
+      445,
+      242,
+      0,
+      292,
+      6,
+      "FLOAT"
+    ],
+    [
+      446,
+      243,
+      0,
+      292,
+      9,
+      "FLOAT"
+    ],
+    [
+      447,
+      244,
+      0,
+      292,
+      7,
+      "FLOAT"
+    ],
+    [
+      448,
+      245,
+      0,
+      292,
+      8,
+      "FLOAT"
+    ],
+    [
+      449,
+      246,
+      0,
+      292,
+      12,
+      "FLOAT"
+    ],
+    [
+      450,
+      247,
+      0,
+      292,
+      13,
+      "FLOAT"
+    ],
+    [
+      451,
+      248,
+      0,
+      292,
+      14,
+      "FLOAT"
+    ],
+    [
+      452,
+      251,
+      0,
+      292,
+      15,
+      "FLOAT"
+    ],
+    [
+      454,
+      292,
+      0,
+      294,
+      0,
+      "IMAGE"
+    ],
+    [
+      455,
+      294,
+      0,
+      236,
+      0,
+      "IMAGE"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "Source",
+      "bounding": [
+        1400,
+        101,
+        208,
+        323
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "title": "Face expression",
+      "bounding": [
+        101,
+        101,
+        1167,
+        970
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.9090909090909091,
+      "offset": [
+        133.84343928939342,
+        175.77682264152142
+      ]
+    }
+  },
+  "version": 0.4
+}
